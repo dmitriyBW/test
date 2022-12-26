@@ -1,0 +1,29 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"core\\/MODX\\/Revolution\\/modContext\\/75fcae795b89e8db3089bb0266bd1714\\/0\\/","target":"return MODX_BASE_PATH;","name":"index.php"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"core\\/MODX\\/Revolution\\/modContext\\/75fcae795b89e8db3089bb0266bd1714\\/1\\/","target":"return MODX_BASE_PATH;","name":"ht.access"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"core\\/MODX\\/Revolution\\/modContext\\/75fcae795b89e8db3089bb0266bd1714.resolve.core.resolver","target":"return MODX_BASE_PATH . \'config.core.php\';","name":"resolve.core"}',
+    ),
+  ),
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => '73bc157bce2aaaaecea22d68a1d9f458',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modContext',
+  'signature' => '75fcae795b89e8db3089bb0266bd1714',
+  'native_key' => 'web',
+  'object' => '{"key":"web","name":"Website","description":"The default front-end context for your web site.","rank":0}',
+);

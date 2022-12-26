@@ -1,0 +1,16 @@
+<?php  return array (
+  'ace' => 'Ace',
+  'ui_ace.case_sensitive' => 'Учитывать регистр',
+  'ui_ace.close' => 'Закрыть',
+  'ui_ace.find' => 'Найти',
+  'ui_ace.find_all' => 'Всё',
+  'ui_ace.go' => 'Перейти',
+  'ui_ace.goto_line' => 'Перейти к строке',
+  'ui_ace.maximize' => 'Развернуть',
+  'ui_ace.minimize' => 'Свернуть',
+  'ui_ace.reg_exp' => 'Регулярное выражение',
+  'ui_ace.replace' => 'Заменить',
+  'ui_ace.replace_all' => 'Всё',
+  'ui_ace.replace_with' => 'Заменить на',
+  'ui_ace.whole_word' => 'Целые слова',
+);

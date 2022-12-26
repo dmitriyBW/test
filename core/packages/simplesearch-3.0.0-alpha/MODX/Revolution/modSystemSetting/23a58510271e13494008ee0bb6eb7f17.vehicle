@@ -1,0 +1,12 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => 'b69f3fe359bb28c90d6d7c334e23c846',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modSystemSetting',
+  'signature' => '23a58510271e13494008ee0bb6eb7f17',
+  'native_key' => 'simplesearch.driver_class',
+  'object' => '{"key":"simplesearch.driver_class","value":"\\\\SimpleSearch\\\\Driver\\\\SimpleSearchDriverBasic","xtype":"textfield","namespace":"simplesearch","area":"Drivers","editedon":null}',
+);

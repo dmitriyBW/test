@@ -1,0 +1,14 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'pdotools',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => '277279024b190ab88355d9ffea475662',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modEvent',
+  'signature' => '173b0a86b2d8508819842b3cd0207f5f',
+  'native_key' => 'pdoToolsOnFenomInit',
+  'object' => '{"name":"pdoToolsOnFenomInit","service":6,"groupname":"pdoTools"}',
+);

@@ -1,0 +1,12 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => '50af03689621c2dd5b1cb13cc3364204',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modSystemSetting',
+  'signature' => 'dfc8da8d1c90e3d091b113eb851250c8',
+  'native_key' => 'simplesearch.autosuggest_tv',
+  'object' => '{"key":"simplesearch.autosuggest_tv","value":"simpleSearchAutoSuggestions","xtype":"textfield","namespace":"simplesearch","area":"Autosuggest","editedon":null}',
+);

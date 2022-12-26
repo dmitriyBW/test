@@ -1,0 +1,11 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => 'd8c5602346926a0f907e4651bef9dae8',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modSystemSetting',
+  'signature' => 'b56c9a06e533798aeca2ab1f48a15aac',
+  'native_key' => 'server_offset_time',
+  'object' => '{"key":"server_offset_time","value":0,"xtype":"numberfield","namespace":"core","area":"system","editedon":null}',
+);

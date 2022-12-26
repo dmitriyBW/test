@@ -1,0 +1,11 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => '5e8902e17a7cd2ac5ce6a1ed502fd16a',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modSystemSetting',
+  'signature' => '54e2e0d935ef62a8dbdfbd01f0a46331',
+  'native_key' => 'site_unavailable_page',
+  'object' => '{"key":"site_unavailable_page","value":0,"xtype":"numberfield","namespace":"core","area":"site","editedon":null}',
+);

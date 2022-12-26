@@ -1,0 +1,13 @@
+[2022-11-04 17:35:31] (ERROR @ /home/admin/web/test.b-w-group.ru/public_html/core/vendor/xpdo/xpdo/src/xPDO/Transport/xPDOObjectVehicle.php : 218) xPDOVehicle resolver failed: type php (/home/admin/web/test.b-w-group.ru/public_html/core/packages/core/MODX/Revolution/modContext/75fcae795b89e8db3089bb0266bd1714.resolve.core.resolver)
+[2022-11-04 17:35:31] (ERROR @ /home/admin/web/test.b-w-group.ru/public_html/core/vendor/xpdo/xpdo/src/xPDO/Transport/xPDOObjectVehicle.php : 77) Could not resolve vehicle for object of class MODX\Revolution\modContext; criteria: Array
+(
+    [key] => web
+)
+
+[2022-11-04 17:35:31] (ERROR @ /home/admin/web/test.b-w-group.ru/public_html/core/vendor/xpdo/xpdo/src/xPDO/Transport/xPDOObjectVehicle.php : 218) xPDOVehicle resolver failed: type php (/home/admin/web/test.b-w-group.ru/public_html/core/packages/core/MODX/Revolution/modContext/c500e1ecb26fdcbed5be0ee12958c66a.resolve.core.resolver)
+[2022-11-04 17:35:31] (ERROR @ /home/admin/web/test.b-w-group.ru/public_html/core/vendor/xpdo/xpdo/src/xPDO/Transport/xPDOObjectVehicle.php : 77) Could not resolve vehicle for object of class MODX\Revolution\modContext; criteria: Array
+(
+    [key] => mgr
+)
+
+[2022-11-04 17:35:31] (ERROR @ /home/admin/web/test.b-w-group.ru/public_html/core/vendor/xpdo/xpdo/src/xPDO/Transport/xPDOFileVehicle.php : 93) xPDOVehicle resolver failed: type php (/home/admin/web/test.b-w-group.ru/public_html/core/packages/core/xPDO/Transport/xPDOFileVehicle/1b345cf643df45df7816d499c889d5a5.resolve.core.resolver)

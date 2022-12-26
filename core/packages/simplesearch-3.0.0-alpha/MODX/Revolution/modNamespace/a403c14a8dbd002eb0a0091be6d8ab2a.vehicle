@@ -1,0 +1,35 @@
+<?php return array (
+  'unique_key' => 'name',
+  'preserve_keys' => true,
+  'update_object' => true,
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"simplesearch-3.0.0-alpha\\/MODX\\/Revolution\\/modNamespace\\/a403c14a8dbd002eb0a0091be6d8ab2a\\/0\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"simplesearch"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"simplesearch-3.0.0-alpha\\/MODX\\/Revolution\\/modNamespace\\/a403c14a8dbd002eb0a0091be6d8ab2a\\/1\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"simplesearch"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"simplesearch-3.0.0-alpha\\/MODX\\/Revolution\\/modNamespace\\/a403c14a8dbd002eb0a0091be6d8ab2a.gpm.resolve.bootstrap.resolver","name":"gpm.resolve.bootstrap"}',
+    ),
+    3 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"simplesearch-3.0.0-alpha\\/MODX\\/Revolution\\/modNamespace\\/a403c14a8dbd002eb0a0091be6d8ab2a\\/3\\/","target":"return MODX_CORE_PATH . \'components\\/simplesearch\\/docs\\/\';","name":"README.md"}',
+    ),
+  ),
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => 'cff876dea05bd7c08df7b8062bf389b8',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modNamespace',
+  'signature' => 'a403c14a8dbd002eb0a0091be6d8ab2a',
+  'native_key' => 'simplesearch',
+  'object' => '{"name":"simplesearch","path":"{core_path}components\\/simplesearch\\/","assets_path":"{assets_path}components\\/simplesearch\\/"}',
+);

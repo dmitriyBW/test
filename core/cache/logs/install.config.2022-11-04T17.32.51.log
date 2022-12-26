@@ -1,0 +1,1 @@
+[2022-11-04 17:32:51] (ERROR @ /home/admin/web/test.b-w-group.ru/public_html/setup/includes/runner/modinstallrunner.class.php : 123) Could not unpack package /home/admin/web/test.b-w-group.ru/public_html/core/packages/core.transport.zip to /home/admin/web/test.b-w-group.ru/public_html/core/packages/. SIG: core
